@@ -1,0 +1,6 @@
+Retrieval-Augmented Generation was introduced by Lewis et al.
+in 2020.
+
+RAG combines a retrieval mechanism with a generative model.
+The retriever obtains relevant documents that can be used
+as additional context by the generator.

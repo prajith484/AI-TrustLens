@@ -1,0 +1,5 @@
+The Transformer architecture was introduced in the paper
+"Attention Is All You Need" by Vaswani et al. in 2017.
+
+The Transformer uses attention mechanisms and does not rely
+on recurrence or convolution for sequence transformation.
